@@ -1,2 +1,4 @@
 name: Akshaya Balan
 markdown: kramdown
+
+theme: jekyll-theme-leap-day
